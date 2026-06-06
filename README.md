@@ -36,7 +36,7 @@ HTML+css+Javascript
 
 ## Acknowledgements
 
- - [idead的来源]：葛同学
+ - [idea的来源]：葛同学
  
  - [代码书写]：老己
 
